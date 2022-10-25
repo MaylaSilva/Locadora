@@ -1,4 +1,4 @@
-abstract class Midia {
+public abstract class Midia {
     private String codigo;
     private Double preco;
     private String nome;
@@ -34,6 +34,6 @@ abstract class Midia {
     }
 
     public void darPlay (){
-        System.out.println("Foi dado play");
+
     }
 }
