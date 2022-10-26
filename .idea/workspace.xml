@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f245a069-89e9-4df1-8d82-2f70bf425edc" name="Changes" comment="Mudança de branch">
-      <change afterPath="$PROJECT_DIR$/Locadora/src/DoacaoMidia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Locadora" beforeDir="false" afterPath="$PROJECT_DIR$/Locadora" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locadora/src/DoacaoMidia.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +39,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/card_/Documents/Mayla' Stuff/Curso/Programação/Deva/Locadora",
+    "last_opened_file_path": "C:/Users/card_/Documents/Mayla' Stuff/Curso/Programação/Deva/NewLocadora/Locadora",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -69,7 +73,8 @@
       <workItem from="1666727366759" duration="1797000" />
       <workItem from="1666732974416" duration="3795000" />
       <workItem from="1666739644025" duration="2369000" />
-      <workItem from="1666742041827" duration="1307000" />
+      <workItem from="1666742041827" duration="2733000" />
+      <workItem from="1666819915001" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="Mudança de branch">
       <created>1666733234102</created>
@@ -78,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666733234102</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mudança de branch">
+      <created>1666743462462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666743462462</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
